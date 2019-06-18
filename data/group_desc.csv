@@ -1,0 +1,10 @@
+id,size,position,main/sub,class,description
+4,17,Front,main,Leader,Lead team
+2,21,Middle,main,Killer,Focus on damage & kill
+6,15,Middle,main,Dealer,Focus on damage (& more)
+3,14,Back,main,Healer,Heal ally in back-line
+1,1,Back,sub,sub (Abathur),Heal & support ally from far-off place
+8,4,Front,sub,sub (Support),Damage & support ally in font-line
+7,3,Front,sub,sub (Hit-and-Run),Hit and Run with low HP
+9,1,Front,sub,sub (Rexxar),Play with Misha
+5,7,Front,sub,sub (Carry),Watch for opportunities to carry
